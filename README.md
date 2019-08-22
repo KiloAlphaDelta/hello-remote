@@ -1,2 +1,7 @@
 # hello-remote
-dev275x
+## text
+
+There are **three points** to note
+* dev275x
+* fg
+* always: `Hello World`
